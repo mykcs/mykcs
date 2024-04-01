@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @mykcs
+  
 - 👀 I’m interested in ...
 
 论文写作 正文40%
@@ -19,8 +20,9 @@ git 入门 管理
 kaggle 平台使用
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-  email
-- 😄 Pronouns: ...
+
+mykcs01@163.com
+
 - ⚡ Fun fact: ...
 
 <!---
