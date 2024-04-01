@@ -12,6 +12,8 @@
 
 wandb 超参数搜素
 
+图像分割
+
 ---
 
 - 🌱 I’m currently learning ...
