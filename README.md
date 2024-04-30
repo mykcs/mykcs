@@ -18,10 +18,6 @@ kaggle
 
 ---
 
-- 💞️ I’m looking to collaborate on ...
-
----
-
 - 📫 How to reach me ...
 
 mykcs01@163.com
