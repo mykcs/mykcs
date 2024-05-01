@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mykcs
 
----
-
 - 👀 I’m interested in ...
 
 cv 图像分割 计算机图形学 
@@ -10,15 +8,11 @@ wandb
 
 kaggle
 
----
-
 - 🌱 I’m currently learning ...
 
 Mamba
 
 李沐-读论文
-
----
 
 - 📫 How to reach me ...
 
