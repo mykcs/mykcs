@@ -6,6 +6,8 @@ cv 图像分割 计算机图形学
 
 wandb
 
+colab使用 服务器使用
+
 kaggle
 
 - 🌱 I’m currently learning ...
