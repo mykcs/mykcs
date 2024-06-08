@@ -2,7 +2,9 @@
 
 - 👀 I’m interested in ...
 
-cv 图像分割
+colab使用 服务器使用
+
+gradio 使用hugging face托管
 
 计算机图形学 
 
@@ -10,11 +12,7 @@ cv 图像分割
 
 - 🌱 I’m currently learning ...
 
-Mamba
-
-李沐-读论文
-
-colab使用 服务器使用
+cv 图像分割 Mamba
 
 kaggle
 
