@@ -2,10 +2,6 @@
 
 - 👀 I’m interested in ...
 
-colab使用 服务器使用
-
-gradio 使用hugging face托管
-
 计算机图形学 
 
 [WWDC 学生挑战](https://developer.apple.com/cn/swift-student-challenge/)
